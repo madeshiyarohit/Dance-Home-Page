@@ -20,4 +20,4 @@ In this project i have created a Dance Homepage from scratch. And i have learnt 
 
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://dancing-home-page.netlify.app/)
+[Live Link !](https://dance-home-page.netlify.app/)
